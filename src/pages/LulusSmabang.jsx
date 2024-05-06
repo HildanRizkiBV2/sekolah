@@ -20,9 +20,9 @@ export const LulusSmabang = () => {
       <Container className="isi">
         <Row className="p-4">
           <Col className="anj" lg="10">
-            <h1>Hildan Rizki Bayhaqi</h1>
-            <p> NISN : 0065979746</p>
-            <p> NIS : 2122103412</p>
+            <h1>fabio bagus ardi w</h1>
+            <p> NISN : 0065843928</p>
+            <p> NIS : 2122138349</p>
           </Col>
 
           <Col>
