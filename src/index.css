@@ -1,0 +1,42 @@
+.background-page {
+  background-color: rgb(217, 217, 217);
+  padding: 130px;
+}
+
+.putih {
+  background-color: white;
+  padding: 130px;
+}
+.header {
+  background-color: red;
+}
+.header img {
+  width: 50px;
+}
+.header span {
+  font-weight: bold;
+  color: white;
+}
+.smabang {
+  font: 2em sans-serif;
+  font-weight: bold;
+}
+.isi {
+  height: 37vh;
+  background-color: white;
+}
+.isi h1 {
+  font-weight: bold;
+}
+.isi img {
+  width: 100px;
+}
+.anj {
+  font-weight: bold;
+}
+.isinya {
+  margin-left: 10px;
+}
+.header-page {
+  background-color: rgb(244, 242, 242);
+}
